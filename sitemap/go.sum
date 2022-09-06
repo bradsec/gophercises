@@ -1,0 +1,4 @@
+github.com/bradsec/gophercises/link v0.0.0-20220905224324-1b18a163c3a7 h1:CkUe4X5vyZ9Fcwg3HLmKtUVQfq7cAQShvovjrXUwIhI=
+github.com/bradsec/gophercises/link v0.0.0-20220905224324-1b18a163c3a7/go.mod h1:iPIch+UtihwfGg/x5g8RLTzeiZwjG8zTaYBvPV0azAQ=
+golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b h1:ZmngSVLe/wycRns9MKikG9OWIEjGcGAkacif7oYQaUY=
+golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b/go.mod h1:YDH+HFinaLZZlnHAfSS6ZXJJ9M9t4Dl22yv3iI2vPwk=
